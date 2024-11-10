@@ -7,7 +7,7 @@
   },
   "structures": [
     {
-      "structure": "minecraft:village_swamp",
+      "structure": "mmv:village_swamp",
       "weight": 1
     }
   ]

@@ -28,12 +28,12 @@
         "projection": "rigid"
       },
       "weight": 50
-    }   //,
+    }
 //    {
 //      "element": {
 //        "element_type": "minecraft:legacy_single_pool_element",
 //        "location": "mmv:swamp/zombie/town_centers/swamp_fountain_01",
-//        "processors": "minecraft:zombie_swamp",
+//        "processors": "mmv:zombie_swamp",
 //        "projection": "rigid"
 //      },
 //      "weight": 1
@@ -42,7 +42,7 @@
 //      "element": {
 //        "element_type": "minecraft:legacy_single_pool_element",
 //        "location": "mmv:swamp/zombie/town_centers/swamp_meeting_point_1",
-//        "processors": "minecraft:zombie_swamp",
+//        "processors": "mmv:zombie_swamp",
 //        "projection": "rigid"
 //      },
 //      "weight": 1
@@ -51,7 +51,7 @@
 //      "element": {
 //        "element_type": "minecraft:legacy_single_pool_element",
 //        "location": "mmv:swamp/zombie/town_centers/swamp_meeting_point_2",
-//        "processors": "minecraft:zombie_swamp",
+//        "processors": "mmv:zombie_swamp",
 //        "projection": "rigid"
 //      },
 //      "weight": 1
@@ -60,7 +60,7 @@
 //      "element": {
 //        "element_type": "minecraft:legacy_single_pool_element",
 //        "location": "mmv:swamp/zombie/town_centers/swamp_meeting_point_3",
-//        "processors": "minecraft:zombie_swamp",
+//        "processors": "mmv:zombie_swamp",
 //        "projection": "rigid"
 //      },
 //      "weight": 1

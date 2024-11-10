@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_1",
+        "location": "mmv:swamp/houses/small_house_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_2",
+        "location": "mmv:swamp/houses/small_house_2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -21,7 +21,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_3",
+        "location": "mmv:swamp/houses/small_house_3",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -30,7 +30,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_4",
+        "location": "mmv:swamp/houses/small_house_4",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -39,7 +39,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_5",
+        "location": "mmv:swamp/houses/small_house_5",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -48,7 +48,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_6",
+        "location": "mmv:swamp/houses/small_house_6",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -57,7 +57,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_7",
+        "location": "mmv:swamp/houses/small_house_7",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -66,7 +66,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_house_8",
+        "location": "mmv:swamp/houses/small_house_8",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -75,7 +75,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_medium_house_1",
+        "location": "mmv:swamp/houses/large_house_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -84,7 +84,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_medium_house_2",
+        "location": "mmv:swamp/houses/large_house_2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -93,7 +93,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_big_house_1",
+        "location": "mmv:swamp/houses/large_house_3",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -102,7 +102,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_butcher_shop_1",
+        "location": "mmv:swamp/houses/large_house_4",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -111,7 +111,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_butcher_shop_2",
+        "location": "mmv:swamp/houses/large_house_5",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -120,7 +120,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_tool_smith_1",
+        "location": "mmv:swamp/houses/weapon_smith_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -129,16 +129,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_fletcher_house_1",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_shepherds_house_1",
+        "location": "mmv:swamp/houses/shepherd_1",
         "processors": {
           "processors": []
         },
@@ -149,7 +140,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_armorer_house_1",
+        "location": "mmv:swamp/houses/cartographer_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -158,7 +149,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_fisher_cottage_1",
+        "location": "mmv:swamp/houses/wheat_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -167,7 +158,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_tannery_1",
+        "location": "mmv:swamp/houses/wheat_2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -176,34 +167,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_cartographer_1",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_library_1",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 5
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_library_2",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_masons_house_1",
+        "location": "mmv:swamp/houses/temple_1",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -212,55 +176,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_weaponsmith_1",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_temple_3",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_temple_4",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_stable_1",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_stable_2",
-        "processors": {
-          "processors": []
-        },
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_large_farm_1",
-        "processors": "minecraft:farm_swamp",
+        "location": "mmv:swamp/houses/farm_1",
+        "processors": "mmv:farm_swamp",
         "projection": "rigid"
       },
       "weight": 4
@@ -268,8 +185,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_small_farm_1",
-        "processors": "minecraft:farm_swamp",
+        "location": "mmv:swamp/houses/farm_pillar_1",
+        "processors": "mmv:farm_swamp",
         "projection": "rigid"
       },
       "weight": 4
@@ -277,7 +194,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_animal_pen_1",
+        "location": "mmv:swamp/houses/farm_pillar_2",
         "processors": {
           "processors": []
         },
@@ -288,7 +205,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_animal_pen_2",
+        "location": "mmv:swamp/houses/farm_pillar_3",
         "processors": {
           "processors": []
         },
@@ -299,7 +216,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_animal_pen_3",
+        "location": "mmv:swamp/houses/farm_pillar_4",
         "processors": {
           "processors": []
         },
@@ -310,7 +227,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_accessory_1",
+        "location": "mmv:swamp/houses/well_1",
         "processors": {
           "processors": []
         },
@@ -321,7 +238,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_meeting_point_4",
+        "location": "mmv:swamp/houses/meeting_point_1",
         "processors": "minecraft:mossify_70_percent",
         "projection": "rigid"
       },
@@ -330,7 +247,29 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/swamp_meeting_point_5",
+        "location": "mmv:swamp/houses/meeting_point_2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/meeting_point_3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/meeting_point_4",
         "processors": {
           "processors": []
         },
