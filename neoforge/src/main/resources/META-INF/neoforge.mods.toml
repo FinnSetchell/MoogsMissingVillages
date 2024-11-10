@@ -4,8 +4,8 @@ issueTrackerURL="https://github.com/FinnSetchell/MoogsStructuresTemplate/issues"
 license="https://github.com/FinnSetchell/MoogsStructuresTemplate/blob/1.20-MultiLoader/LICENSE"
 
 [[mods]]
-    modId="mvs"
-    logoFile= "assets/mst/icon.png"
+    modId="mmv"
+    logoFile= "assets/mmv/icon.png"
     logoBlur=false
     version="${version}"
     displayName="Moog's Structures Template"
@@ -20,12 +20,12 @@ license="https://github.com/FinnSetchell/MoogsStructuresTemplate/blob/1.20-Multi
     '''
 
 [[mixins]]
-    config = "mst-neoforge.mixins.json"
+    config = "mmv-neoforge.mixins.json"
 
 [[mixins]]
-    config = "mst-common.mixins.json"
+    config = "mmv-common.mixins.json"
 
-[[dependencies.mvs]]
+[[dependencies.mmv]]
     modId="minecraft"
     type="required"
     versionRange="[1.21,)"

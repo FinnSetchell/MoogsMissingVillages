@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "mst",
+    "id": "mmv",
     "version": "${version}-fabric",
     "name": "Moog's Structures",
     "description": "lots of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!",
@@ -16,12 +16,12 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.finndog.mst.fabric.MSFabric"
+            "com.finndog.mmv.fabric.MSFabric"
         ]
     },
     "mixins": [
-      "mst-fabric.mixins.json",
-        "mst-common.mixins.json"
+      "mmv-fabric.mixins.json",
+        "mmv-common.mixins.json"
     ],
     "depends": {
         "fabricloader": "*",
