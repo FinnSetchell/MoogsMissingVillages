@@ -1,0 +1,35 @@
+{
+    "schemaVersion": 1,
+    "id": "mst",
+    "version": "${version}-fabric",
+    "name": "Moog's Structures",
+    "description": "lots of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!",
+    "authors": [
+        "FinnDog"
+    ],
+    "contact": {
+        "homepage": "https://www.curseforge.com/minecraft/mc-mods/moogs-structures-template",
+        "sources": "https://github.com/FinnSetchell/MoogsStructuresTemplate"
+    },
+    "license": "GNU Lesser General Public License v3.0",
+    "icon": "icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.finndog.mst.fabric.MSFabric"
+        ]
+    },
+    "mixins": [
+      "mst-fabric.mixins.json",
+        "mst-common.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": "*",
+        "minecraft": ">=1.21",
+        "fabric": "*"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}
+  
