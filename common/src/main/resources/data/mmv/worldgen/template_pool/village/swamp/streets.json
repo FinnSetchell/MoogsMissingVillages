@@ -145,5 +145,5 @@
       "weight": 3
     }
   ],
-  "fallback": "mmv:swamp/terminators"
+  "fallback": "mmv:village/swamp/terminators"
 }
