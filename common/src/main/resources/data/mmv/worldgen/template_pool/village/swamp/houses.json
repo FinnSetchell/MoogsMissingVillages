@@ -79,7 +79,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -88,7 +88,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -97,7 +97,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -106,7 +106,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 5
     },
     {
       "element": {
@@ -115,7 +115,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -124,7 +124,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -135,7 +135,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -200,7 +200,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 4
     },
     {
       "element": {
@@ -211,7 +211,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 4
     },
     {
       "element": {
@@ -253,7 +253,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 5
     },
     {
       "element": {
@@ -264,13 +264,13 @@
         },
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 5
     },
     {
       "element": {
         "element_type": "minecraft:empty_pool_element"
       },
-      "weight": 10
+      "weight": 5
     }
   ],
   "fallback": "mmv:village/swamp/terminators"
