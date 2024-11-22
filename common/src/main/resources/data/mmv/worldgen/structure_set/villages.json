@@ -9,6 +9,10 @@
     {
       "structure": "mmv:village_swamp",
       "weight": 1
+    },
+    {
+      "structure": "mmv:village_jungle",
+      "weight": 1
     }
   ]
 }
