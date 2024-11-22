@@ -3,13 +3,35 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/swamp_lamp_1",
+        "location": "minecraft:village/plains/plains_lamp_1",
         "processors": {
           "processors": []
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/wheat_1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/wheat_2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 5
     },
     {
       "element": {
@@ -17,7 +39,7 @@
         "feature": "minecraft:oak",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 6
     },
     {
       "element": {
@@ -25,7 +47,7 @@
         "feature": "minecraft:flower_swamp",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 8
     },
     {
       "element": {
@@ -33,13 +55,72 @@
         "feature": "minecraft:pile_hay",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 7
     },
     {
       "element": {
         "element_type": "minecraft:empty_pool_element"
       },
       "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/farm_pillar_rare",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/farm_pillar_1",
+        "processors": "mmv:farm_swamp",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/farm_pillar_2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/farm_pillar_3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:swamp/houses/farm_pillar_4",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      },
+      "weight": 3
     }
   ],
   "fallback": "minecraft:empty"
