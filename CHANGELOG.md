@@ -2,10 +2,10 @@
 # Changelog
 
 ### Added
-- added new biome tags
+- ⋅
 
 ### Changed
 - ⋅
 
 ### Fixed
-- ⋅
+- world corruption when loading a village
