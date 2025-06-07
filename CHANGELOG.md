@@ -2,10 +2,10 @@
 # Changelog
 
 ### Added
-- added biome tags
+- ⋅
 
 ### Changed
-- 
+- ⋅
 
 ### Fixed
--
+- fixed world corruption issue

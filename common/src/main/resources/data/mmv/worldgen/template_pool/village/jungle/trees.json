@@ -2,8 +2,11 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:feature_pool_element",
-        "feature": "minecraft:jungle_bush",
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:jungle/bush",
+        "processors": {
+          "processors": []
+        },
         "projection": "rigid"
       },
       "weight": 1
