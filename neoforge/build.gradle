@@ -1,5 +1,6 @@
 plugins {
     id "com.github.johnrengelman.shadow" version "7.1.2"
+    id "me.modmuss50.mod-publish-plugin" version "0.8.4"
 }
 
 architectury {
@@ -61,3 +62,27 @@ components.java {
     }
 }
 
+File changeLog = rootProject.file("CHANGELOG.md")
+String changelogtext = changeLog.exists() ? changeLog.text : ""
+
+publishMods {
+    file = remapJar.archiveFile
+    changelog = changelogtext
+    type = STABLE
+    displayName = "MMV ${project.version} [NEOFORGE]"
+    modLoaders.add("neoforge")
+
+    modrinth {
+        accessToken = providers.environmentVariable("MODRINTH_API_KEY")
+        projectId = "spZb29SD"
+        minecraftVersions.add("1.21.4")
+    }
+
+    curseforge {
+        accessToken = providers.environmentVariable("CURSEFORGE_API_KEY")
+        projectId = "1153951"
+        minecraftVersions.add("1.21.4")
+        serverRequired = true
+    }
+
+}
