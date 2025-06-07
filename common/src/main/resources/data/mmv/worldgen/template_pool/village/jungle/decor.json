@@ -35,14 +35,6 @@
     },
     {
       "element": {
-        "element_type": "minecraft:feature_pool_element",
-        "feature": "minecraft:pile_hay",
-        "projection": "rigid"
-      },
-      "weight": 7
-    },
-    {
-      "element": {
         "element_type": "minecraft:legacy_single_pool_element",
         "location": "mmv:jungle/houses/hay_bales_1",
         "processors": "mmv:farm_jungle",
