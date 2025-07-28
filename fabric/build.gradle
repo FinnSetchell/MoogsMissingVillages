@@ -87,7 +87,7 @@ publishMods {
     changelog = changelogtext
     type = STABLE
     displayName = "MMV ${project.version} [FABRIC]"
-    modLoaders.add("neoforge")
+    modLoaders.add("fabric")
 
     modrinth {
         accessToken = providers.environmentVariable("MODRINTH_API_KEY")
