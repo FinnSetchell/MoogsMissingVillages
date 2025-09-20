@@ -1,11 +1,3 @@
 
 # Changelog
-
-### Added
-- ⋅
-
-### Changed
-- ⋅
-
-### Fixed
-- fixed world corruption issue
+- converted to universal datapack version with dependency on Moogs Structure Lib (moogs_structures)
