@@ -46,7 +46,7 @@ remapJar {
     injectAccessWidener = true
     input.set shadowJar.archiveFile
     dependsOn shadowJar
-    archiveClassifier.set(null)
+    archiveClassifier.set("fabric")
 }
 
 jar {
@@ -92,13 +92,19 @@ publishMods {
     modrinth {
         accessToken = providers.environmentVariable("MODRINTH_API_KEY")
         projectId = "spZb29SD"
-        minecraftVersions.add("1.21.8")
+        minecraftVersionRange {
+            start = "1.21.9"
+            end = "1.21.10"
+        }
     }
 
     curseforge {
         accessToken = providers.environmentVariable("CURSEFORGE_API_KEY")
         projectId = "1153951"
-        minecraftVersions.add("1.21.8")
+        minecraftVersionRange {
+            start = "1.21.9"
+            end = "1.21.10"
+        }
         serverRequired = true
     }
 
