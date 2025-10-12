@@ -59,7 +59,7 @@ publishMods {
 
 
     modLoaders.add("fabric")
-    modLoaders.add("quilt")
+//    modLoaders.add("quilt")
     modLoaders.add("forge")
     modLoaders.add("neoforge")
 
