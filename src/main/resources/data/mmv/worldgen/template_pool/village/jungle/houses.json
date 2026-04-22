@@ -97,7 +97,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 7
+      "weight": 4
     },
     {
       "element": {
