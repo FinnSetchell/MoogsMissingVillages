@@ -13,6 +13,10 @@
     {
       "structure": "mmv:village_jungle",
       "weight": 1
+    },
+    {
+      "structure": "mmv:village_dark_forest",
+      "weight": 1
     }
   ]
 }
