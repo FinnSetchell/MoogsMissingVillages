@@ -79,7 +79,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 5
     },
     {
       "element": {
@@ -88,7 +88,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 5
     },
     {
       "element": {
@@ -97,7 +97,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 7
     },
     {
       "element": {
@@ -108,7 +108,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 7
     },
     {
       "element": {
@@ -117,7 +117,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 7
     },
     {
       "element": {
@@ -126,7 +126,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 7
     },
     {
       "element": {
@@ -135,7 +135,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 7
     },
     {
       "element": {
@@ -144,7 +144,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 7
     },
     {
       "element": {
@@ -222,7 +222,7 @@
       "element": {
         "element_type": "minecraft:empty_pool_element"
       },
-      "weight": 5
+      "weight": 10
     }
   ],
   "fallback": "mmv:village/jungle/terminators"
