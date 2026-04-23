@@ -5,7 +5,7 @@ import sys
 def main():
     script_dir   = Path(__file__).parent
     project_root = script_dir.parent
-    structure_dir = project_root / "src" / "main" / "resources" / "data" / "mmv" / "structure"
+    structure_dir = project_root / "src" / "main" / "resources" / "data" / "mmv" / "structures"
 
     if not structure_dir.exists():
         print(f"ERROR: Structure directory not found:\n  {structure_dir}")

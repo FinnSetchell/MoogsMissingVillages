@@ -84,7 +84,7 @@ def process_pool(json_path: Path, versioned_paths: set[str]) -> bool:
 def main():
     script_dir   = Path(__file__).parent
     project_root = script_dir.parent
-    structure_dir    = project_root / "src" / "main" / "resources" / "data" / "mmv" / "structure"
+    structure_dir    = project_root / "src" / "main" / "resources" / "data" / "mmv" / "structures"
     template_pool_dir = project_root / "src" / "main" / "resources" / "data" / "mmv" / "worldgen" / "template_pool"
 
     versioned_paths = collect_versioned_paths(structure_dir, VERSION_FOLDER)
