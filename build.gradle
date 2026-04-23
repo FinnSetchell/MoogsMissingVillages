@@ -59,7 +59,7 @@ publishMods {
 
 
     modLoaders.add("fabric")
-    modLoaders.add("quilt")
+//    modLoaders.add("quilt")
     modLoaders.add("forge")
     modLoaders.add("neoforge")
 
@@ -75,10 +75,6 @@ publishMods {
             start = (project.findProperty('publishMcStart') ?: mcVersion)
             end = (project.findProperty('publishMcEnd') ?: mcVersion)
         }
-        requires {
-            id = "1oUDhxuy"
-            slug = "moogs-structure-lib"
-        }
     }
 
     curseforge {
@@ -89,7 +85,6 @@ publishMods {
             start = (project.findProperty('publishMcStart') ?: mcVersion)
             end = (project.findProperty('publishMcEnd') ?: mcVersion)
         }
-        requires("moogs-structure-lib")
     }
 }
 

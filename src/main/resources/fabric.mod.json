@@ -16,7 +16,6 @@
     "icon": "icon.png",
     "environment": "*",
     "depends": {
-      "fabric-resource-loader-v0": "*",
-      "moogs_structures": "*"
+      "fabric-resource-loader-v0": "*"
     }
   }
