@@ -5,7 +5,7 @@
   "values": [
     "#minecraft:is_jungle",
     {
-      "id": "#c:is_jungle",
+      "id": "#c:jungle",
       "required": false
     }
   ]
