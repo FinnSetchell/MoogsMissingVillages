@@ -2,6 +2,13 @@
 
 ---
 
+## [2.1.1] - 2026-05-29
+
+### Changed
+- Updated the logo to MMV logo
+
+---
+
 ## [2.1.0] - 2026-04-23
 
 ### Changed
