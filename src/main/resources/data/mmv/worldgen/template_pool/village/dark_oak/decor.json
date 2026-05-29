@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:village/dark_oak/dark_oak_lamp_1",
+        "location": "mmv:dark_oak/dark_oak_lamp_1",
         "processors": {
           "processors": []
         },
