@@ -7,6 +7,10 @@
 ### Changed
 - Updated the logo to MMV logo
 
+### Fixed
+- Wired up a bunch of orphaned nbt's
+- fixed armor stands for 1.20-1.20.4
+
 ---
 
 ## [2.1.0] - 2026-04-23

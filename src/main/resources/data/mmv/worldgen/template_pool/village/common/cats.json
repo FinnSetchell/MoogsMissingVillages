@@ -14,7 +14,18 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/animals/cat_british",
+        "location": "mmv:common/animals/cat_tuxedo",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "mmv:common/animals/cat_british_shorthair",
         "processors": {
           "processors": []
         },

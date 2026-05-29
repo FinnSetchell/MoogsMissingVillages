@@ -2,44 +2,52 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/armor_stand/armor_stands_1",
-        "processors": {
-          "processors": []
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:common/armor_stand/armor_stand_1",
+        "locations": {
+          "1.20-1.20.4": "mmv:common/armor_stand/armor_stand_1",
+          "1.20.5-1.21": "mmv:common/armor_stand/1.20.5/armor_stand_1"
         },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 4
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/armor_stand/armor_stands_2",
-        "processors": {
-          "processors": []
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:common/armor_stand/armor_stand_2",
+        "locations": {
+          "1.20-1.20.4": "mmv:common/armor_stand/armor_stand_2",
+          "1.20.5-1.21": "mmv:common/armor_stand/1.20.5/armor_stand_2"
         },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 3
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/armor_stand/armor_stands_3",
-        "processors": {
-          "processors": []
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:common/armor_stand/armor_stand_3",
+        "locations": {
+          "1.20-1.20.4": "mmv:common/armor_stand/armor_stand_3",
+          "1.20.5-1.21": "mmv:common/armor_stand/1.20.5/armor_stand_3"
         },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/armor_stand/armor_stands_4",
-        "processors": {
-          "processors": []
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:common/armor_stand/armor_stand_4",
+        "locations": {
+          "1.20-1.20.4": "mmv:common/armor_stand/armor_stand_4",
+          "1.20.5-1.21": "mmv:common/armor_stand/1.20.5/armor_stand_4"
         },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1

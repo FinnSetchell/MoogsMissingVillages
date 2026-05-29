@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:village/jungle/jungle_lamp_1",
+        "location": "mmv:jungle/jungle_lamp_1",
         "processors": {
           "processors": []
         },
