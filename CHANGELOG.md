@@ -2,9 +2,10 @@
 
 ---
 
-## [2.1.2] - 2026-05-29
+## [2.1.2] - 2026-07-04
 
-_Pending. Update this header date and replace this line with the actual changes before tagging._
+### Changed
+- mc 26.2 support
 
 ---
 
