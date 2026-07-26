@@ -1,0 +1,35 @@
+# v2 publish manifest — FinnSetchell/MoogsMissingVillages
+# Lives on the default branch (1.21-datapack); every publish branch reads it from there.
+# Schema per release-actions docs/v2-contracts.md.
+schema: 1
+mod:
+  id: mmv
+  displayName: "Moog's Missing Villages"   # live Modrinth title is "MMV - Moog's Missing Villages"
+  environments: [Server]   # verified against live CF files 2026-07-26 (every file carries the Server tag)
+  name: MoogsMissingVillages
+  validate: true
+platforms:
+  curseforge: { projectId: 1153951, slug: mmv-moogs-missing-villages }   # CF /mods API 403 — id verified via the public files endpoint
+  modrinth:   { projectId: spZb29SD, slug: mmv-moogs-missing-villages }  # live-verified 2026-07-26
+discord:
+  embedColor: "#f7941f"
+  avatarUrl: "https://media.forgecdn.net/avatars/thumbnails/1175/818/64/64/638748086115979970.webp"
+  # Was in the discordThumbnailUrl slot in gradle.properties, but it is a 1604x538 wide
+  # header image -> semantically a banner. No square thumbnail exists for this mod.
+  bannerUrl: "https://www.bisecthosting.com/images/CF/MMV_Moogs_Missing_Villages/MP_MMV_MoogsMissingVillages_header.webp"
+  pingDefault: true
+# Required dependencies — matches the live latest versions on both branches
+# (Modrinth 2.1.2 / 2.1.1, verified 2026-07-26).
+dependencies:
+  - { modrinth: 1oUDhxuy, curseforge: moogs-structure-lib, type: required }
+artifacts:
+  - type: universal-jar
+targets:
+  - branch: 1.20-datapack
+    mc: { start: "1.20", end: "1.20.6" }
+    java: 21
+    displaySuffix: "[UNIVERSAL]"
+  - branch: 1.21-datapack
+    mc: { start: "1.21", end: "26.2" }   # fleet standard for universal 1.21 targets
+    java: 21
+    displaySuffix: "[UNIVERSAL]"
