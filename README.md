@@ -2,7 +2,7 @@
 
 ---
 
-[![Discord](https://img.shields.io/discord/869218732650688543?color=f7941f&label=DISCORD&style=for-the-badge)](https://discord.com/invite/S5nffJbuvA) [![](https://img.shields.io/badge/TOTAL-80%20STRUCTURES-f7941f?style=for-the-badge)](https://github.com/FinnSetchell/MoogsVanillaStructuresV2/wiki) [![GitHub Sponsors](https://img.shields.io/github/sponsors/finnsetchell?color=f7941f&style=for-the-badge)](https://github.com/sponsors/FinnSetchell) [![Twitter Follow](https://img.shields.io/twitter/follow/MoogsMods?color=f7941f&style=for-the-badge)](https://twitter.com/MoogsMods)
+[![Discord](https://img.shields.io/discord/869218732650688543?color=f7941f&label=DISCORD&style=for-the-badge)](https://moogsmods.com/discord?r=readme-mmv) [![](https://img.shields.io/badge/TOTAL-80%20STRUCTURES-f7941f?style=for-the-badge)](https://github.com/FinnSetchell/MoogsVanillaStructuresV2/wiki) [![GitHub Sponsors](https://img.shields.io/github/sponsors/finnsetchell?color=f7941f&style=for-the-badge)](https://github.com/sponsors/FinnSetchell) [![Twitter Follow](https://img.shields.io/twitter/follow/MoogsMods?color=f7941f&style=for-the-badge)](https://twitter.com/MoogsMods)
 
 [![](https://img.shields.io/badge/My-projects-f7941f?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)
 
@@ -65,9 +65,9 @@ see all modpacks [here](https://www.modpackindex.com/modpack/finder?included_mod
 
 ---
 
-**The best and fastest way to get replies is to join our [discord server](https://discord.gg/S5nffJbuvA)**
+**The best and fastest way to get replies is to join our [discord server](https://moogsmods.com/discord?r=readme-mmv)**
 
-[**![discord](https://i.imgur.com/sfAmR3Y.png)**](https://discord.gg/S5nffJbuvA "discord invite")
+[**![discord](https://i.imgur.com/sfAmR3Y.png)**](https://moogsmods.com/discord?r=readme-mmv "discord invite")
 
 ---
 
