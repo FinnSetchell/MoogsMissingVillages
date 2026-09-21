@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/town_centers/town_center_1",
+        "location": "mmv:1_21_0/dark_oak/town_centers/town_center_1",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/town_centers/town_center_2",
+        "location": "mmv:1_21_0/dark_oak/town_centers/town_center_2",
         "processors": {
           "processors": []
         },
@@ -24,12 +24,16 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/town_centers/town_center_3",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_21_9/dark_oak/town_centers/town_center_3",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.21-1.21.8": "mmv:1_21_0/dark_oak/town_centers/town_center_3",
+          "1.21.9-26.3": "mmv:1_21_9/dark_oak/town_centers/town_center_3"
+        }
       },
       "weight": 50
     }

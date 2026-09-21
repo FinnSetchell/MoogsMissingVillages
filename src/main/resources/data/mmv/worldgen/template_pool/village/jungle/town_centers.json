@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_1",
+        "location": "mmv:1_21_0/jungle/town_centers/meeting_point_1",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_2",
+        "location": "mmv:1_21_0/jungle/town_centers/meeting_point_2",
         "processors": {
           "processors": []
         },
@@ -25,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_3",
+        "location": "mmv:1_21_0/jungle/town_centers/meeting_point_3",
         "processors": {
           "processors": []
         },

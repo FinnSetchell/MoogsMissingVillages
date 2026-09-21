@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/swamp_lamp_1",
+        "location": "mmv:1_21_0/swamp/swamp_lamp_1",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/wheat_1",
+        "location": "mmv:1_21_0/swamp/houses/wheat_1",
         "processors": {
           "processors": []
         },
@@ -25,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/wheat_2",
+        "location": "mmv:1_21_0/swamp/houses/wheat_2",
         "processors": {
           "processors": []
         },
@@ -36,7 +36,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/oak_tree",
+        "location": "mmv:1_21_0/common/oak_tree",
         "processors": {
           "processors": []
         },
@@ -53,7 +53,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_rare",
+        "location": "mmv:1_21_0/swamp/houses/farm_pillar_rare",
         "processors": {
           "processors": []
         },
@@ -64,7 +64,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_1",
+        "location": "mmv:1_21_0/swamp/houses/farm_pillar_1",
         "processors": "mmv:farm_swamp",
         "projection": "rigid"
       },
@@ -73,7 +73,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_2",
+        "location": "mmv:1_21_0/swamp/houses/farm_pillar_2",
         "processors": {
           "processors": []
         },
@@ -84,7 +84,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_3",
+        "location": "mmv:1_21_0/swamp/houses/farm_pillar_3",
         "processors": {
           "processors": []
         },
@@ -95,7 +95,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_4",
+        "location": "mmv:1_21_0/swamp/houses/farm_pillar_4",
         "processors": {
           "processors": []
         },

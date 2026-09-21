@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/bell_tower",
+        "location": "mmv:1_21_0/swamp/town_centers/bell_tower",
         "processors": "minecraft:mossify_20_percent",
         "projection": "rigid"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/fountain_1",
+        "location": "mmv:1_21_0/swamp/town_centers/fountain_1",
         "processors": "minecraft:mossify_20_percent",
         "projection": "rigid"
       },
@@ -21,7 +21,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/meeting_point_4",
+        "location": "mmv:1_21_0/swamp/town_centers/meeting_point_4",
         "processors": {
           "processors": []
         },

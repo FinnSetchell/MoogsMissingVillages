@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/terminators/terminator_01",
+        "location": "mmv:1_21_0/dark_oak/terminators/terminator_01",
         "processors": "mmv:street_dark_forest",
         "projection": "terrain_matching"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/terminators/terminator_03",
+        "location": "mmv:1_21_0/dark_oak/terminators/terminator_03",
         "processors": "mmv:street_dark_forest",
         "projection": "terrain_matching"
       },

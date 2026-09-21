@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/dark_oak_lamp_1",
+        "location": "mmv:1_21_0/dark_oak/dark_oak_lamp_1",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/crop_mound_1",
+        "location": "mmv:1_21_0/dark_oak/houses/crop_mound_1",
         "processors": {
           "processors": []
         },
@@ -25,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/crop_pillar_1",
+        "location": "mmv:1_21_0/dark_oak/houses/crop_pillar_1",
         "processors": {
           "processors": []
         },
@@ -36,7 +36,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/crop_pillar_2",
+        "location": "mmv:1_21_0/dark_oak/houses/crop_pillar_2",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -45,7 +45,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/crop_pillar_3",
+        "location": "mmv:1_21_0/dark_oak/houses/crop_pillar_3",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },

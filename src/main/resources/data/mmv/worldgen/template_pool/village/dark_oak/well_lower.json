@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/well_lower",
+        "location": "mmv:1_21_0/dark_oak/houses/well_lower",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
