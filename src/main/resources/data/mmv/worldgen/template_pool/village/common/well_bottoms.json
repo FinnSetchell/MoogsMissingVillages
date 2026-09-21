@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/well_bottom",
+        "location": "mmv:1_20_0/common/well_bottom",
         "processors": {
           "processors": []
         },

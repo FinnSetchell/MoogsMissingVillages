@@ -2,10 +2,14 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/houses/well_lower",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/dark_oak/houses/well_lower",
         "processors": "minecraft:empty",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/well_lower",
+          "1.20.5-1.20.6": "mmv:1_20_5/dark_oak/houses/well_lower"
+        }
       },
       "weight": 1
     }

@@ -1,0 +1,19 @@
+{
+  "name": "mmv:mobs/swamp/zombie_villager_nitwit",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/swamp/zombie_villager_nitwit",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/swamp/zombie_villager_nitwit",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/swamp/zombie_villager_nitwit"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

@@ -2,8 +2,21 @@
   "elements": [
     {
       "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_1",
+        "processors": "minecraft:mossify_10_percent",
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_1"
+        }
+      },
+      "weight": 2
+    },
+    {
+      "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_1",
+        "location": "mmv:1_20_0/jungle/houses/small_house_2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -11,219 +24,303 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_2",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_3",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_3",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_3"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_3",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_4",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_4",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_4"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_4",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_5",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_5",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_5"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_5",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_6",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_6",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_6",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_6"
+        }
       },
       "weight": 1
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_7",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_7",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_7",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_7"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/small_house_8",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/small_house_8",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/small_house_8",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/small_house_8"
+        }
       },
       "weight": 3
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/large_house_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/large_house_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/large_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/large_house_1"
+        }
       },
       "weight": 5
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/large_house_2",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/large_house_2",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/large_house_2",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/large_house_2"
+        }
       },
       "weight": 5
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/weaponsmith_house_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/weaponsmith_house_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.2": "mmv:1_20_0/jungle/houses/weaponsmith_house_1",
+          "1.20.3-1.20.4": "mmv:1_20_3/jungle/houses/weaponsmith_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/weaponsmith_house_1"
+        }
       },
       "weight": 4
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/fletchers_house_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/fletchers_house_1",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/fletchers_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/fletchers_house_1"
+        }
       },
       "weight": 7
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/cartographers_house_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/cartographers_house_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/cartographers_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/cartographers_house_1"
+        }
       },
       "weight": 7
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/farm_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/farm_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/farm_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/farm_1"
+        }
       },
       "weight": 7
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/farm_2",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/farm_2",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/farm_2",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/farm_2"
+        }
       },
       "weight": 7
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/temple_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/temple_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/temple_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/temple_1"
+        }
       },
       "weight": 7
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_1",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_1"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_2",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_2",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_2",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_2"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_3",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_3",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_3",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_3"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_4",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_4",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_4",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_4"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_5",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_5",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_5",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_5"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_6",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_6",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_6",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_6"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_7",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_7",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_7",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_7"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_8",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_8",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_8",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_8"
+        }
       },
       "weight": 2
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/houses/medium_house_9",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/houses/medium_house_9",
         "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/houses/medium_house_9",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/houses/medium_house_9"
+        }
       },
       "weight": 2
     },

@@ -1,0 +1,64 @@
+{
+  "name": "mmv:mobs/common/farm_animal",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/common/cow",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/common/cow",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/common/cow"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/common/pig",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/common/pig",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/common/pig"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/common/horse",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/common/horse",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/common/horse"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/common/sheep",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/common/sheep",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/common/sheep"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

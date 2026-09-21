@@ -2,19 +2,23 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:swamp/swamp_lamp_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/swamp_lamp_1",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/swamp_lamp_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/swamp_lamp_1"
+        }
       },
       "weight": 12
     },
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/wheat_1",
+        "location": "mmv:1_20_0/swamp/houses/wheat_1",
         "processors": {
           "processors": []
         },
@@ -25,7 +29,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/wheat_2",
+        "location": "mmv:1_20_0/swamp/houses/wheat_2",
         "processors": {
           "processors": []
         },
@@ -36,7 +40,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:common/oak_tree",
+        "location": "mmv:1_20_0/common/oak_tree",
         "processors": {
           "processors": []
         },
@@ -52,19 +56,23 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_rare",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/houses/farm_pillar_rare",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/houses/farm_pillar_rare",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/houses/farm_pillar_rare"
+        }
       },
       "weight": 1
     },
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_1",
+        "location": "mmv:1_20_0/swamp/houses/farm_pillar_1",
         "processors": "mmv:farm_swamp",
         "projection": "rigid"
       },
@@ -73,7 +81,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_2",
+        "location": "mmv:1_20_0/swamp/houses/farm_pillar_2",
         "processors": {
           "processors": []
         },
@@ -84,7 +92,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_3",
+        "location": "mmv:1_20_0/swamp/houses/farm_pillar_3",
         "processors": {
           "processors": []
         },
@@ -95,7 +103,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/houses/farm_pillar_4",
+        "location": "mmv:1_20_0/swamp/houses/farm_pillar_4",
         "processors": {
           "processors": []
         },

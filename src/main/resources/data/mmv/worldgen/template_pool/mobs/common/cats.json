@@ -1,0 +1,25 @@
+{
+  "name": "mmv:mobs/common/cats",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 11,
+      "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/mobs/common/cat",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/mobs/common/cat",
+          "1.20.5-1.20.6": "mmv:1_20_5/mobs/common/cat"
+        },
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

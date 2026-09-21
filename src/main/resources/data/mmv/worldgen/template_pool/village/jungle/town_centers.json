@@ -2,34 +2,46 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/town_centers/meeting_point_1",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/town_centers/meeting_point_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/town_centers/meeting_point_1"
+        }
       },
       "weight": 50
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_2",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/town_centers/meeting_point_2",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/town_centers/meeting_point_2",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/town_centers/meeting_point_2"
+        }
       },
       "weight": 50
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:jungle/town_centers/meeting_point_3",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/jungle/town_centers/meeting_point_3",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/jungle/town_centers/meeting_point_3",
+          "1.20.5-1.20.6": "mmv:1_20_5/jungle/town_centers/meeting_point_3"
+        }
       },
       "weight": 50
     }

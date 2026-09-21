@@ -2,19 +2,27 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/terminators/terminator_01",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/dark_oak/terminators/terminator_01",
         "processors": "mmv:street_dark_forest",
-        "projection": "terrain_matching"
+        "projection": "terrain_matching",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/dark_oak/terminators/terminator_01",
+          "1.20.5-1.20.6": "mmv:1_20_5/dark_oak/terminators/terminator_01"
+        }
       },
       "weight": 1
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:dark_oak/terminators/terminator_03",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/dark_oak/terminators/terminator_03",
         "processors": "mmv:street_dark_forest",
-        "projection": "terrain_matching"
+        "projection": "terrain_matching",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/dark_oak/terminators/terminator_03",
+          "1.20.5-1.20.6": "mmv:1_20_5/dark_oak/terminators/terminator_03"
+        }
       },
       "weight": 1
     }

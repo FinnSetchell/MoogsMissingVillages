@@ -2,9 +2,26 @@
 
 ---
 
-## [2.1.2] - 2026-05-29
+## [2.2.0] - 2026-09-21
 
-_Pending. Update this header date and replace this line with the actual changes before tagging._
+### Added
+- Dark oak villages now have their own villagers instead of borrowing vanilla's
+- The archer's house in dark oak villages now has a bow and an arrow displayed in item frames
+- Armour stands in villages now wear a random set of leather, chainmail or iron armour
+- Village cats now come in a random colour
+- Villages appear in Moog's Structure Lib's structure config screen, where they can be turned off
+
+### Fixed
+- Dark oak village streets and street ends now get their lamps and decorations
+- Two jungle street pieces were missing their decorations
+- A jungle village street corner no longer places swamp decorations
+- Baby villagers now spawn as babies
+- Zombie villagers in swamp villages now look like swamp villagers
+- Swamp nitwits no longer spawn with a trade level
+- Every structure has been rebuilt for each Minecraft version it supports, fixing a range of small visual and loading problems
+
+### Changed
+- Now requires Moog's Structure Lib 3.0.0 or newer
 
 ---
 

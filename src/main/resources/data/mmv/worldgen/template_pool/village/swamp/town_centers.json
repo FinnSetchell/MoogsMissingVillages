@@ -2,30 +2,42 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/bell_tower",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/town_centers/bell_tower",
         "processors": "minecraft:mossify_20_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/bell_tower",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/town_centers/bell_tower"
+        }
       },
       "weight": 50
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/fountain_1",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/town_centers/fountain_1",
         "processors": "minecraft:mossify_20_percent",
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/fountain_1",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/town_centers/fountain_1"
+        }
       },
       "weight": 50
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/town_centers/meeting_point_4",
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/town_centers/meeting_point_4",
         "processors": {
           "processors": []
         },
-        "projection": "rigid"
+        "projection": "rigid",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/meeting_point_4",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/town_centers/meeting_point_4"
+        }
       },
       "weight": 50
     }

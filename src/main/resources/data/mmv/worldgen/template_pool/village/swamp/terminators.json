@@ -2,8 +2,21 @@
   "elements": [
     {
       "element": {
+        "element_type": "moogs_structures:versioned_single_pool_element",
+        "location": "mmv:1_20_5/swamp/terminators/terminator_01",
+        "processors": "mmv:street_swamp",
+        "projection": "terrain_matching",
+        "locations": {
+          "1.20-1.20.4": "mmv:1_20_0/swamp/terminators/terminator_01",
+          "1.20.5-1.20.6": "mmv:1_20_5/swamp/terminators/terminator_01"
+        }
+      },
+      "weight": 1
+    },
+    {
+      "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/terminators/terminator_01",
+        "location": "mmv:1_20_0/swamp/terminators/terminator_02",
         "processors": "mmv:street_swamp",
         "projection": "terrain_matching"
       },
@@ -12,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/terminators/terminator_02",
+        "location": "mmv:1_20_0/swamp/terminators/terminator_03",
         "processors": "mmv:street_swamp",
         "projection": "terrain_matching"
       },
@@ -21,16 +34,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/terminators/terminator_03",
-        "processors": "mmv:street_swamp",
-        "projection": "terrain_matching"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "mmv:swamp/terminators/terminator_04",
+        "location": "mmv:1_20_0/swamp/terminators/terminator_04",
         "processors": "mmv:street_swamp",
         "projection": "terrain_matching"
       },
