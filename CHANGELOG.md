@@ -2,6 +2,13 @@
 
 ---
 
+## [2.2.1]
+
+### Fixed
+- Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
+
+---
+
 ## [2.2.0] - 2026-09-21
 
 ### Added
