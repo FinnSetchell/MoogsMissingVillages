@@ -118,6 +118,38 @@
           ]
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "mmv:on_swamp_village_maps",
+              "decoration": "red_x",
+              "zoom": 2,
+              "search_radius": 5,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.mmv.swamp_village_map",
+                "fallback": "Swamp Village Map"
+              },
+              "target": "item_name"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 19
+        }
+      ]
     }
   ],
   "random_sequence": "mmv:chests/village/village_swamp_house"
