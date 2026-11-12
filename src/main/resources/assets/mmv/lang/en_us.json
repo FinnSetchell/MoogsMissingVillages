@@ -5,5 +5,8 @@
   "mmv.releases": "GitHub Releases",
   "mmv.kofi": "Ko-fi",
   "mmv.curseforge": "CurseForge",
-  "mmv.modrinth": "Modrinth"
+  "mmv.modrinth": "Modrinth",
+  "filled_map.mmv.swamp_village_map": "Swamp Village Map",
+  "filled_map.mmv.jungle_village_map": "Jungle Village Map",
+  "filled_map.mmv.dark_forest_village_map": "Dark Forest Village Map"
 }
