@@ -4,8 +4,15 @@
 
 ## [2.2.1]
 
+### Added
+- Cartographer chests in jungle, swamp and dark forest villages can now hold maps to the other two kinds of village, and house chests sometimes hold one too
+
 ### Fixed
 - Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
+
+### Changed
+- Three jungle and swamp village chests now hold loot that suits the house they are in
+- Cartographer and weaponsmith chests in jungle and swamp villages can now hold a bundle on Minecraft 1.21.2 to 1.21.4
 
 ---
 
