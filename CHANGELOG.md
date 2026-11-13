@@ -4,8 +4,14 @@
 
 ## [2.2.1]
 
+### Added
+- Cartographer chests in jungle, swamp and dark forest villages can now hold maps to the other two kinds of village, and house chests sometimes hold one too
+
 ### Fixed
 - Fixed the mod not loading on NeoForge 1.20.5
+
+### Changed
+- Three jungle and swamp village chests now hold loot that suits the house they are in
 
 ---
 
