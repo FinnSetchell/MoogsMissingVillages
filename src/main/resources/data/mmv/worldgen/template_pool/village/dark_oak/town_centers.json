@@ -26,9 +26,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_9/dark_oak/town_centers/town_center_3",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.8": "mmv:1_21_0/dark_oak/town_centers/town_center_3",

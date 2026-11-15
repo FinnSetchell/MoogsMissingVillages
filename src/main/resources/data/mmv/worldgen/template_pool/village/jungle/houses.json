@@ -22,7 +22,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/jungle/houses/small_house_3",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/jungle/houses/small_house_3",
@@ -98,7 +98,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/jungle/houses/weaponsmith_house_1",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/jungle/houses/weaponsmith_house_1",
@@ -185,7 +185,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/jungle/houses/medium_house_4",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/jungle/houses/medium_house_4",
@@ -216,7 +216,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/jungle/houses/medium_house_7",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/jungle/houses/medium_house_7",

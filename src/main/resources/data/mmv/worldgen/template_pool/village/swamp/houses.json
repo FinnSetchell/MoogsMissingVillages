@@ -49,7 +49,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/swamp/houses/small_house_6",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/swamp/houses/small_house_6",
@@ -80,7 +80,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/swamp/houses/large_house_1",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/swamp/houses/large_house_1",
@@ -102,7 +102,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/swamp/houses/large_house_3",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/swamp/houses/large_house_3",
@@ -115,7 +115,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_5/swamp/houses/large_house_4",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.4": "mmv:1_21_0/swamp/houses/large_house_4",
@@ -137,7 +137,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/swamp/houses/weapon_smith_1",
-        "processors": "minecraft:mossify_10_percent",
+        "processors": "mmv:mossify_10_percent",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/swamp/houses/weapon_smith_1",
@@ -270,9 +270,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_21_4/swamp/houses/medium_house_3",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.21-1.21.3": "mmv:1_21_0/swamp/houses/medium_house_3",
