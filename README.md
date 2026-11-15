@@ -1,75 +1,38 @@
-![banner](https://www.bisecthosting.com/images/CF/MVS/BH_NU_HEADER.png)
+![banner](https://i.moogsmods.com/images/43c380224417459d97b2e01483c7aac4.webp)
 
----
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8LKA5N)
 
-[![Discord](https://img.shields.io/discord/869218732650688543?color=f7941f&label=DISCORD&style=for-the-badge)](https://moogsmods.com/discord?r=readme-mmv) [![](https://img.shields.io/badge/TOTAL-80%20STRUCTURES-f7941f?style=for-the-badge)](https://github.com/FinnSetchell/MoogsVanillaStructuresV2/wiki) [![GitHub Sponsors](https://img.shields.io/github/sponsors/finnsetchell?color=f7941f&style=for-the-badge)](https://github.com/sponsors/FinnSetchell) [![Twitter Follow](https://img.shields.io/twitter/follow/MoogsMods?color=f7941f&style=for-the-badge)](https://twitter.com/MoogsMods)
+[![Discord](https://img.shields.io/discord/869218732650688543?color=f7941f&label=DISCORD&style=for-the-badge)](https://moogsmods.com/discord?r=readme-mmv) [![CurseForge projects](https://img.shields.io/badge/CurseForge-projects-f7941f?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects) [![Modrinth projects](https://img.shields.io/badge/Modrinth-projects-f7941f?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/FinnDog_123) [![View Structures](https://i.moogsmods.com/images/c110cc09347a4f9f9de6c974f2fa35d8.png)](https://previews.moogsmods.com/missing-villages/1.21.1/)
 
-[![](https://img.shields.io/badge/My-projects-f7941f?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)
+![Overview](https://i.moogsmods.com/images/339c54ed9ef74b3dab6cf726038e3e4b.webp)
 
----
+This Mod works for Forge, Fabric, NeoForge, and Quilt! It can also be installed server-side only.
+Forge support was dropped after 1.20.4
 
-![Overview](https://www.bisecthosting.com/images/CF/MVS/BH_NU_BANNER1.png)
+## This mod is INCOMPATIBLE with TERRALITH!
 
----
+### ABOUT
+Moogs Missing Villages adds vanilla-styled villages for both the jungle and swamp biomes. It's designed to be as close to what we believe Mojang would have created, had they made these villages.
 
-**FEEDBACK**
+[![Browse every structure live in 3D](https://i.moogsmods.com/images/f8fe835413394a76b10a678afefea30f.png)](https://previews.moogsmods.com/missing-villages/1.21.1/)
 
-Please comment any ideas you may have to improve this mod. Any and all feedback is greatly appreciated :)
+[![MinecraftStorage](https://imgur.com/ApCtgr7.png)](https://minecraftstorage.com/mods/mmv-moogs-missing-villages)
 
-**FORGE AND FABRIC**
+![features](https://i.moogsmods.com/images/17db0e0f23504a8bbe1e509cbdac6f42.webp)
+![collage](https://i.moogsmods.com/images/1ed547f7829847cfafee9ae5919d26ea.png)
 
-Look for files marked with **\[FORGE\]** or **\[FABRIC\]**.   
-***Fabric** mods are marked with **BETA** so that they show up on the side, but they are actually **RELEASE's***
+![showcase](https://i.moogsmods.com/images/7acae597d7c642e1974107a4ce41c6b3.webp)
 
-**ABOUT**
+### VIDEOS
 
-Moogs Voyager Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!
+[![Watch on YouTube](https://img.youtube.com/vi/OCAxt3vetLo/mqdefault.jpg)](https://www.youtube.com/watch?v=OCAxt3vetLo&t=841s)
 
-**Config pack**
+### MODPACKS
 
-[link](https://www.curseforge.com/minecraft/texture-packs/mvs-moogs-voyager-structure-config-pack)
+See all modpacks [here](https://www.modpackindex.com/modpack/finder?included_mods=69806).
 
-A datapack you can use to configure the mod.
+![banner](https://i.moogsmods.com/images/59f1b82feb3248459f95ea1df98a97e8.webp)
 
-**REQUIRED ON CLIENT AND SERVER**
+The best and fastest way to get replies is to join our [Discord server](https://moogsmods.com/discord?r=readme-mmv).
 
-1. simply download the version you need
-2. then add it to your mods folder  
-   It does not require any settings to be changed for it and should work with all mods
-
----
-
-![features](https://www.bisecthosting.com/images/CF/MVS/BH_NU_BANNER2.png)![collage](https://imgur.com/I9lNEvl.png)
-
----
-
-![showcase](https://www.bisecthosting.com/images/CF/MVS/BH_NU_BANNER4.png)
-
----
-
-**If you have any modpacks/videos using this mod that you want featured here, then message me on discord!**
-
-**VIDEOS:**
-
-
-
-
-
-**MODPACKS**
-
-see all modpacks [here](https://www.modpackindex.com/modpack/finder?included_mods=37802 "here")
-
----
-
-![](https://www.bisecthosting.com/images/CF/MVS/BH_NU_BANNER3.png)
-
----
-
-**The best and fastest way to get replies is to join our [discord server](https://moogsmods.com/discord?r=readme-mmv)**
-
-[**![discord](https://i.imgur.com/sfAmR3Y.png)**](https://moogsmods.com/discord?r=readme-mmv "discord invite")
-
----
-
-[![serverImage](https://i.imgur.com/kMtqORw.png)](https://moogsmodded.store.playerlands.com/ "serverShop")  
-[![BHsponser](https://www.bisecthosting.com/images/CF/MVS/BH_NU_PROMO.png)](https://bisecthosting.com/moogsmods)
+[![BHsponser](https://i.moogsmods.com/images/26b14785ed304ae69990948f13b61771.webp)](https://bisecthosting.com/moogsmods?r=mrmmv)
