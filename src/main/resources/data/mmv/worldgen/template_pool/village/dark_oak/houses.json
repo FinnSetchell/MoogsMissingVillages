@@ -4,7 +4,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_1",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.2": "mmv:1_20_0/dark_oak/houses/small_house_1",
@@ -18,7 +18,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_2",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.2": "mmv:1_20_0/dark_oak/houses/small_house_2",
@@ -32,7 +32,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_3",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_3",
@@ -45,7 +45,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_4",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_4",
@@ -58,7 +58,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_5",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_5",
@@ -71,7 +71,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_6",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_6",
@@ -84,7 +84,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_7",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_7",
@@ -97,7 +97,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_8",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_8",
@@ -110,7 +110,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_9",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_9",
@@ -123,7 +123,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_10",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_10",
@@ -136,7 +136,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/small_house_11",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/small_house_11",
@@ -149,7 +149,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/large_house_1",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/large_house_1",
@@ -162,7 +162,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/large_house_2",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/large_house_2",
@@ -175,7 +175,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/long_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/long_house",
@@ -188,7 +188,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/tall_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/tall_house",
@@ -201,7 +201,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/animal_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/animal_house",
@@ -214,7 +214,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/archers_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/archers_house",
@@ -227,7 +227,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/blacksmith",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.2": "mmv:1_20_0/dark_oak/houses/blacksmith",
@@ -241,7 +241,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/cartographers_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/cartographers_house",
@@ -254,7 +254,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/church",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/church",
@@ -267,7 +267,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/farm_house",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/farm_house",
@@ -280,7 +280,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/market_1",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/market_1",
@@ -293,7 +293,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/market_2",
-        "processors": "minecraft:empty",
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/market_2",
@@ -306,9 +306,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/big_well",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/big_well",
@@ -321,9 +319,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/houses/well_upper",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/houses/well_upper",

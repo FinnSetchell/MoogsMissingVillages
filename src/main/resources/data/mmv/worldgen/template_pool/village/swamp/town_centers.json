@@ -4,7 +4,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/swamp/town_centers/bell_tower",
-        "processors": "minecraft:mossify_20_percent",
+        "processors": "mmv:mossify_20_percent",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/bell_tower",
@@ -17,7 +17,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/swamp/town_centers/fountain_1",
-        "processors": "minecraft:mossify_20_percent",
+        "processors": "mmv:mossify_20_percent",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/fountain_1",
@@ -30,9 +30,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/swamp/town_centers/meeting_point_4",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/swamp/town_centers/meeting_point_4",

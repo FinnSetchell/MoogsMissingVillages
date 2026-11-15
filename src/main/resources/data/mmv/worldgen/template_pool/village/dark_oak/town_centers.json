@@ -4,9 +4,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/town_centers/town_center_1",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/town_centers/town_center_1",
@@ -19,9 +17,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/town_centers/town_center_2",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/town_centers/town_center_2",
@@ -34,9 +30,7 @@
       "element": {
         "element_type": "moogs_structures:versioned_single_pool_element",
         "location": "mmv:1_20_5/dark_oak/town_centers/town_center_3",
-        "processors": {
-          "processors": []
-        },
+        "processors": "mmv:skip_air",
         "projection": "rigid",
         "locations": {
           "1.20-1.20.4": "mmv:1_20_0/dark_oak/town_centers/town_center_3",
