@@ -11,6 +11,7 @@
 - Fixed the mod not loading on NeoForge 1.20.5
 
 ### Changed
+- Now requires Moog's Structure Lib 4.0.0 or newer
 - Three jungle and swamp village chests now hold loot that suits the house they are in
 
 ---
