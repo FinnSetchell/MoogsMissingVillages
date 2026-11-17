@@ -27,5 +27,9 @@ Thumbs.db
 # Personal dev notes (not for distribution)
 NAMESPACE_GUIDE.md
 
+# Python bytecode and stray backups
+__pycache__/
+*.bak
+
 # NOTE: gradlew, gradlew.bat, and gradle/wrapper/gradle-wrapper.{jar,properties}
 # MUST be committed. Do NOT add them here - CI relies on them.
