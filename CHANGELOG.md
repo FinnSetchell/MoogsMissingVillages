@@ -11,6 +11,7 @@
 - Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
 
 ### Changed
+- The spawner at the bottom of the dark forest village well now spawns skeletons
 - Now requires Moog's Structure Lib 4.0.0 or newer
 - Three jungle and swamp village chests now hold loot that suits the house they are in
 - Cartographer and weaponsmith chests in jungle and swamp villages can now hold a bundle on Minecraft 1.21.2 to 1.21.4
