@@ -153,7 +153,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mmv:on_swamp_village_maps",
               "decoration": "village_plains",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },
@@ -175,7 +175,7 @@
               "type": "minecraft:exploration_map",
               "destination": "#mmv:on_swamp_village_maps",
               "decoration": "village_plains",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },
@@ -209,7 +209,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mmv:on_jungle_village_maps",
               "decoration": "village_savanna",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },
@@ -231,7 +231,7 @@
               "type": "minecraft:exploration_map",
               "destination": "#mmv:on_jungle_village_maps",
               "decoration": "village_savanna",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },
