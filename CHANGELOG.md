@@ -9,6 +9,7 @@
 
 ### Fixed
 - Fixed the mod not loading on NeoForge 1.20.5
+- Chests that couldn't be opened because of a block above them now open
 
 ### Changed
 - The spawner at the bottom of the dark forest village well now spawns skeletons
