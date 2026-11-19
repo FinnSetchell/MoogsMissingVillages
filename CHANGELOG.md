@@ -9,6 +9,7 @@
 
 ### Fixed
 - Chests on Minecraft 26.3 now give full stacks and enchanted items, the same as on older versions
+- Chests that couldn't be opened because of a block above them now open
 
 ### Changed
 - The spawner at the bottom of the dark forest village well now spawns skeletons
