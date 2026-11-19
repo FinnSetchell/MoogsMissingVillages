@@ -131,7 +131,7 @@
               "function": "minecraft:exploration_map",
               "destination": "mmv:on_dark_forest_village_maps",
               "decoration": "red_x",
-              "zoom": 2,
+              "zoom": 3,
               "search_radius": 5,
               "skip_existing_chunks": false
             },
